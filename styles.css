@@ -9,3 +9,45 @@ p {
     font-size: 18px;
     font-weight: bold;
 }
+
+li {
+    display: inline-block;
+    color: blue;
+    font-size: 32px;
+    margin: 20px;
+    background-color:rgb(165, 204, 170);
+}
+    
+
+ul {
+    margin: 0;
+    padding: 0 20px;
+    text-align: center;
+    background-color: rgb(165, 204, 170);
+}
+
+body {
+    background-color: rgb(165, 204, 170);
+}
+]
+
+.Welcome {
+    background-color: rgb(165, 204, 170);
+    margin: 0;
+    padding: 16px;
+}
+.doorpicture1 li {
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.doorpicture1 p {
+    font-size: 32px;
+    background-color: rgb(165, 204, 170);
+    margin: 0;
+
+
+}
